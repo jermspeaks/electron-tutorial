@@ -1,0 +1,22 @@
+{
+  "name": "electron-tutorial",
+  "version": "0.0.1",
+  "description": "Cat Picture Hello World",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "cat",
+    "picture",
+    "node"
+  ],
+  "author": "Jeremy Wong",
+  "license": "MIT",
+  "dependencies": {
+    "cat-picture": "^5.1.2",
+    "lightning-image-poly": "^0.0.10",
+    "request": "^2.81.0"
+  }
+}
